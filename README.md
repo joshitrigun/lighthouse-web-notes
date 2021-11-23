@@ -2,4 +2,4 @@ Trigun's Notes
 
 # This is a header
 
-###### This is a smallest header(h6)
+This repository contains all of the notes taken by [Trigun Joshi](https://github.com/joshitrigun) for the Lighthouse Labs Web Development Bootcamp.
